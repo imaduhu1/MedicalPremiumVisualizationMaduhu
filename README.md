@@ -4,7 +4,7 @@ This interactive dashboard allows users to explore health insurance premium patt
 
 ## 🚀 Launch the App
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medicalpremiumvisualizationchloe-innocent-sonia-bmhodbm3cfnpso.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medicalpremiumvisualizationmaduhu-koafp8hujafnq3ddxcurb3.streamlit.app/)
 
 ---
 
