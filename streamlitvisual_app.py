@@ -1,4 +1,4 @@
-# streamlitvisual_app.py
+# streamlit visualization dependencies
 
 import streamlit as st
 import pandas as pd
